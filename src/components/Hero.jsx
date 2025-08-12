@@ -48,7 +48,7 @@ const Hero = () => {
         >
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
-              <img src="public/Images/profile.jpg" alt="Avishek Das" className="w-full h-full object-cover" />
+            <img src="/Images/profile.jpg" alt="Avishek Das" className="w-full h-full object-cover" />
             </div>
             <motion.div 
               className="absolute -bottom-4 -right-4 bg-indigo-600 text-white px-4 py-2 rounded-lg shadow-lg"
